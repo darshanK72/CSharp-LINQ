@@ -1,0 +1,45 @@
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\refint\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\ref\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\refint\Problem19.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\M1 Coding Practice\Problem19\obj\Debug\net6.0\ref\Problem19.dll
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.exe
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.deps.json
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.runtimeconfig.json
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.dll
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\bin\Debug\net6.0\Problem19.pdb
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.AssemblyReference.cache
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfoInputs.cache
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.AssemblyInfo.cs
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.csproj.CoreCompileInputs.cache
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.dll
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\refint\Problem19.dll
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.pdb
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\Problem19.genruntimeconfig.cache
+C:\.Net Core Azure\A. Coding Practice\10. C#\M1 Coding Practice\Problem19\obj\Debug\net6.0\ref\Problem19.dll

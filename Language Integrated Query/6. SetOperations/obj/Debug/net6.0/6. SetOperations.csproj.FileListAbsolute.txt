@@ -1,0 +1,15 @@
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\bin\Debug\net6.0\6. SetOperations.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\bin\Debug\net6.0\6. SetOperations.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\bin\Debug\net6.0\6. SetOperations.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\bin\Debug\net6.0\6. SetOperations.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\bin\Debug\net6.0\6. SetOperations.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\refint\6. SetOperations.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\6. SetOperations.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\6. SetOperations\obj\Debug\net6.0\ref\6. SetOperations.dll

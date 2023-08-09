@@ -1,0 +1,15 @@
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\bin\Debug\net6.0\Problem12.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\bin\Debug\net6.0\Problem12.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\bin\Debug\net6.0\Problem12.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\bin\Debug\net6.0\Problem12.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\bin\Debug\net6.0\Problem12.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\refint\Problem12.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\Problem12.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\6. Practice Coding\M1 Coding Practice\Project12\obj\Debug\net6.0\ref\Problem12.dll

@@ -1,0 +1,15 @@
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\bin\Debug\net6.0\4. JoinAndGroupJoin.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\bin\Debug\net6.0\4. JoinAndGroupJoin.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\bin\Debug\net6.0\4. JoinAndGroupJoin.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\bin\Debug\net6.0\4. JoinAndGroupJoin.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\bin\Debug\net6.0\4. JoinAndGroupJoin.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\refint\4. JoinAndGroupJoin.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\4. JoinAndGroupJoin.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\7. Practice Coding\LINQ & Entity Framework Practice\4. JoinAndGroupJoin\obj\Debug\net6.0\ref\4. JoinAndGroupJoin.dll

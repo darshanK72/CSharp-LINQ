@@ -1,0 +1,15 @@
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\bin\Debug\net6.0\Problem18.exe
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\bin\Debug\net6.0\Problem18.deps.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\bin\Debug\net6.0\Problem18.runtimeconfig.json
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\bin\Debug\net6.0\Problem18.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\bin\Debug\net6.0\Problem18.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.csproj.AssemblyReference.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.AssemblyInfoInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.AssemblyInfo.cs
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.csproj.CoreCompileInputs.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\refint\Problem18.dll
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.pdb
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\Problem18.genruntimeconfig.cache
+C:\Users\dakhairn\OneDrive - Capgemini\Desktop\Resources\5. Practice Coding\M1 Coding Practice\Problem18\obj\Debug\net6.0\ref\Problem18.dll
