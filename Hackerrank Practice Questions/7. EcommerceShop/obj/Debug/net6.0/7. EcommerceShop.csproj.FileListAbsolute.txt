@@ -1,0 +1,15 @@
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\bin\Debug\net6.0\7. EcommerceShop.exe
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\bin\Debug\net6.0\7. EcommerceShop.deps.json
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\bin\Debug\net6.0\7. EcommerceShop.runtimeconfig.json
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\bin\Debug\net6.0\7. EcommerceShop.dll
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\bin\Debug\net6.0\7. EcommerceShop.pdb
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.csproj.AssemblyReference.cache
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.AssemblyInfoInputs.cache
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.AssemblyInfo.cs
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.csproj.CoreCompileInputs.cache
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.dll
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\refint\7. EcommerceShop.dll
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.pdb
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\7. EcommerceShop.genruntimeconfig.cache
+C:\.Net Core Azure\Coding Practice\C# & LINQ\Hackerrank Practice Questions\7. EcommerceShop\obj\Debug\net6.0\ref\7. EcommerceShop.dll

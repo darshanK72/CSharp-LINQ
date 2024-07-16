@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyClassLibrary
-build_property.ProjectDir = C:\.Net Core Azure\Practice Coding\1. C# Practice\C# Assignments\MyClassLibrary\
+build_property.ProjectDir = C:\.SDE\.Practice\5. C# & LINQ\C# Assignments\MyClassLibrary\

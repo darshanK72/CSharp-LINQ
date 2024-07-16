@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\4.Product-Inventory\\4.Product-Inventory.csproj": {}
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\4.Product-Inventory\\4.Product-Inventory.csproj": {}
   },
   "projects": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\4.Product-Inventory\\4.Product-Inventory.csproj": {
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\4.Product-Inventory\\4.Product-Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\4.Product-Inventory\\4.Product-Inventory.csproj",
+        "projectUniqueName": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\4.Product-Inventory\\4.Product-Inventory.csproj",
         "projectName": "4.Product-Inventory",
-        "projectPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\4.Product-Inventory\\4.Product-Inventory.csproj",
+        "projectPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\4.Product-Inventory\\4.Product-Inventory.csproj",
         "packagesPath": "C:\\Users\\dakhairn\\.nuget\\packages\\",
-        "outputPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\4.Product-Inventory\\obj\\",
+        "outputPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\4.Product-Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

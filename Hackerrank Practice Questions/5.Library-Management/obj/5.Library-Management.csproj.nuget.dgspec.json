@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\5.Library-Management\\5.Library-Management.csproj": {}
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\5.Library-Management\\5.Library-Management.csproj": {}
   },
   "projects": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\5.Library-Management\\5.Library-Management.csproj": {
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\5.Library-Management\\5.Library-Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\5.Library-Management\\5.Library-Management.csproj",
+        "projectUniqueName": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\5.Library-Management\\5.Library-Management.csproj",
         "projectName": "5.Library-Management",
-        "projectPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\5.Library-Management\\5.Library-Management.csproj",
+        "projectPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\5.Library-Management\\5.Library-Management.csproj",
         "packagesPath": "C:\\Users\\dakhairn\\.nuget\\packages\\",
-        "outputPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\5.Library-Management\\obj\\",
+        "outputPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\5.Library-Management\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

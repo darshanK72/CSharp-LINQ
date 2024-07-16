@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj": {}
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj": {}
   },
   "projects": {
-    "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj": {
+    "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj",
+        "projectUniqueName": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj",
         "projectName": "2.Employee-Inheritence",
-        "projectPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj",
+        "projectPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\2.Employee-Inheritence\\2.Employee-Inheritence.csproj",
         "packagesPath": "C:\\Users\\dakhairn\\.nuget\\packages\\",
-        "outputPath": "C:\\.Net Core Azure\\Coding Practice\\C# & LINQ\\Hackerrank\\2.Employee-Inheritence\\obj\\",
+        "outputPath": "C:\\.Software Developement\\.Coding Practice\\C# & LINQ\\Hackerrank Practice Questions\\2.Employee-Inheritence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
